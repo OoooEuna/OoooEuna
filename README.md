@@ -1,3 +1,7 @@
+<div align="center" >
+  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/bfeca07a-648d-406b-8a0c-c0a73d05e767" />
+</div>
+
 <h3>Git Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OoooEuna&theme=rose&locale=ko)](https://git.io/streak-stats)
