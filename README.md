@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/bfeca07a-648d-406b-8a0c-c0a73d05e767" />
+  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/bfeca07a-648d-406b-8a0c-c0a73d05e767" height="50%" width="50%" />
 </div>
 
 <h3>Git Stats</h3>
