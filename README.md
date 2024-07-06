@@ -39,4 +39,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+
+
+  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/0f51e505-2486-4638-b443-10b5db12cac8" height="50%" width="50%" />
 </div>
