@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/bfeca07a-648d-406b-8a0c-c0a73d05e767" height="30%" width="50%" />
+  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/bfeca07a-648d-406b-8a0c-c0a73d05e767" height="20%" width="50%" />
 
   <h3>Git Stats</h3>
 
@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 
 
-  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/0f51e505-2486-4638-b443-10b5db12cac8" height="30%" width="50%" />
+  <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/0f51e505-2486-4638-b443-10b5db12cac8" height="20%" width="50%" />
 </div>
