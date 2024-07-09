@@ -52,7 +52,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
+<br><br>
 
   <img src="https://github.com/OoooEuna/OoooEuna/assets/160719463/0f51e505-2486-4638-b443-10b5db12cac8" height="20%" width="50%" />
 </div>
